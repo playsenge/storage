@@ -1,1 +1,1 @@
-*.png filter=lfs diff=lfs merge=lfs -text
+C:/Users/senge/Desktop/StoragePusher/** filter=lfs diff=lfs merge=lfs -text
