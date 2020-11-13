@@ -7,10 +7,9 @@ echo Starting operation... (C:\Users\senge\Desktop\StoragePusher)
 echo.
 git init
 git lfs install
-git lfs track "*.md"
+git lfs track "*.png"
 git add .gitattributes
 git add .
 git commit -m "sengeStorage Commit"
 git pull https://github.com/playsenge/storage.git master
 git push https://github.com/playsenge/storage.git master
-pause
